@@ -9,5 +9,5 @@ music下载 根据大佬提供的接口完成
 
 ### 2、qr-generator文件夹
 
-二维码生成器(Cloudflare Workers 版):读参数 → 生成 SVG 二维码,单文件、无状态、免费额度内运行。
+文桥 ClipBridge——文本跨设备同步:二维码把文本带进手机,取件码接回电脑;单文件、免费额度内运行。
 [中文文档](qr-generator/README.zh-CN.md) | [English](qr-generator/README.md)
